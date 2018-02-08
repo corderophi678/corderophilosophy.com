@@ -1,5 +1,5 @@
 {
-  "name": "cphi-site",
+  "name": "corderophilosophy.com",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "choo": "^6.7.0",
-    "choo-service-worker": "^2.3.1",
-    "sheetify": "^7.1.0",
+    "choo-service-worker": "^2.4.0",
+    "sheetify": "^7.2.0",
     "tachyons": "^4.9.1"
   },
   "devDependencies": {
