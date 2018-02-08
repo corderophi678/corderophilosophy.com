@@ -1,0 +1,14 @@
+{
+  "name": "cphi-site",
+  "short_name": "cphi-site",
+  "description": "personal site",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [{
+    "src": "/assets/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
