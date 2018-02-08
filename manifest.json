@@ -1,6 +1,6 @@
 {
-  "name": "cphi-site",
-  "short_name": "cphi-site",
+  "name": "Dr. Richard Cordero, Philospher, Web Developer",
+  "short_name": "corderophilosophy.com",
   "description": "personal site",
   "start_url": "/",
   "display": "standalone",

@@ -1,6 +1,6 @@
 var html = require('choo/html')
 
-var TITLE = 'cphi-site - route not found'
+var TITLE = 'corderophilosophy.com - route not found'
 
 module.exports = view
 
