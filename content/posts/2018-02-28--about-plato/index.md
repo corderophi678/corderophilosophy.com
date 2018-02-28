@@ -3,7 +3,6 @@ title: Plato, Introduction
 subTitle: Who he was and what we'll be reading... 
 date: "2018-02-28"
 path: "/about-plato/"
-draft: true
 cover: short-Sanzio_01_Plato_Aristotle.jpg
 ---
 
@@ -37,7 +36,7 @@ After Socrates was tried, convicted, and put to death for "corrupting the youth"
   </figcaption>
 </figure>
 
-Notice Plato on the left, Aristole on the right. Plato's pointing up, Aristotle's pointing toward the horizon. Plato's holding his work _Timaeus_, Aristotle's holding his work _Nicomachean Ethics_. All of these things are references to philosophical differences between the two. Plato's pointing to the sky is a reference to his concern with the fundamental nature of the world, whereas Aristotle's gesturing toward the horizon is a reference to his concern with the things _in_ the world -- more practical matters. Even the fact that Plato is shown as so much older than Aristotle might be a reference to the fact that Plato represented a much older worldview than Aristotle.
+Notice Plato on the left, Aristole on the right. Plato's pointing up, Aristotle's pointing toward the horizon. Plato's holding his work _Timaeus_, Aristotle's holding his work _Nicomachean Ethics_. All of these things are references to philosophical differences between the two. Plato's pointing to the sky is a reference to his concern with the abstract, fundamental nature of the world, whereas Aristotle's gesturing toward the horizon is a reference to his concern with the things _in_ the world -- more practical matters. Plato wrote about many different philosophical matters, including the difference between generalized concepts and particular instantiations of those contepts (like, the difference between the concept of a chair and a particular chair), justice and the ideal State, he had views on whether or not people are born with innate concepts, the nature of memory, the difference between philosophy and rhetoric, and many others. Aristotle, on the other hand, wrote about biology, physics, ethics, animals, metaphysics, and many, many other things. 
 
 Both Plato and Aristotle are incredibly influential in the history of European philosophical thought. Twentieth century philosopher and mathematician Alfred North Whitehead famously wrote about Plato,
 > "The safest general characterisation of the European philosophical tradition is that it consists of a series of footnotes to Plato."
