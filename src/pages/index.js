@@ -54,10 +54,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(BlogIndex)
 
 export const pageQuery = graphql`
   query IndexQuery {
-   allMarkdownRemark(
-      sort: {fields: [frontmatter___date], order: DESC},
-      filter: { frontmatter: { draft: { ne: true } } }
-    ) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           excerpt
