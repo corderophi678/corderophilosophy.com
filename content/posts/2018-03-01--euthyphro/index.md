@@ -42,7 +42,7 @@ Socrates asks Euthyphro to teach him all about piety so that he, Socrates, may b
 
 "Time for me to go..." Such a clear and explicit blow-off. "Nahhhh...I'm done here, man. If you ain't leavin', I am!"
 
-So, to recap. Here are the main suggestions Euthyphro offers and the Socrates' rebuttals.
+So, to recap. Here are the main suggestions Euthyphro offers and Socrates' rebuttals.
 
 First, Euthyphro says, 
 > "...the pious is to do what I am doing now, to prosecute the wrongdoer, be it about murder or temple robbery or anything else, whether the wrongdoer is your father or your mother or anyone else; not to prosecute is impious." [5e1]
