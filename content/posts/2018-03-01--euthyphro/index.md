@@ -3,7 +3,6 @@ title: Euthyphro
 subTitle: Is it blue because we see it that way? Or do we see it that way because it's blue?
 date: "2018-03-01"
 path: "/euthyphro/"
-draft: true
 cover: short-plato-reader.png
 ---
 *  [Intro](#intro)
@@ -11,7 +10,7 @@ cover: short-plato-reader.png
 *  [Reflect](#reflect)
 
 **NB: A short note on references:
-Since ancient philosophers' writings weren't kept in books with numbered pages, marginal notation systems were developed so that references could be made to various passages without regard for things like differences in translation. So, if translator A is looking at _Euthyphro_ and translates it one way and translator B is looking at _Euthyphro_ and translates it a different way, there is a way to refer to the same ideas despite the different translations. For example, "_Euthyphro_ 10d1" is a reference to the 10th (I don't know...parchment page or scroll maybe), section d, line 1.**
+Since ancient philosophers' writings weren't kept in books with numbered pages, marginal notation systems were developed so that references could be made to various passages without regard for things like differences in translation. So, along the margins of many versions of ancient texts you will often find some combination of numbers and letters which indicate where in the original text the translated passage can be found. For example, "_Euthyphro_ 10d1" is a reference to the 10th (I don't know...parchment page or scroll maybe), section d, line 1.**
 
 <h2 id="intro">Intro</h2>
 
@@ -84,4 +83,12 @@ On the other hand, if the gods love what is right, pious, or just because it's r
 
 These sorts of questions, questions of priority -- what comes first, what depends on what -- are super important questions. Plato was largely concerned with the **conceptual** issues here -- he wanted to get at the _true definition_ of piety. But the **practical** implications of the answers we give to these conceptual questions are massive -- which is why it's so important to get the answers to the conceptual questions right.
 
-Right, next up [Apology](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.)
+We often act in ways that suggest there are principles guiding our actions. For example, we tend to follow the legal codes of the places where we live. Perhaps we tend to think that following the laws is the _right_ thing to do. But, (a), is it right because that's what the laws say to do? Or, (b), do the laws say to do that because it's right? Thinking about things this way, you might wonder whether or not there are some laws that it's _not_ right to follow because they themselves are _wrong_. That, in turn, might make you wonder where legal authority comes from.
+
+Let's stop there, before we get too far down _that_ rabbit-hole, though.
+
+Right, next up [Apology](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.). In _Apology_, Plato gives an account of Socrates' trial -- the same trial he's on his way to when he runs into Euthyphro. He offers his defense against the charges Meletus has brought against him -- we'll see whether it's a good one. 
+
+(Ron Howard's Voice: It wasn't. He's found guilty and put to death.)
+
+Look for a post on _Apology_ in about a week's time, maybe sooner depending on how pain management goes this week.
